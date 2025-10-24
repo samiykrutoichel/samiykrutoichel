@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/7fcb4ce2-18dd-42c3-907e-0a333705cc19" />
+  <img src="https://github.com/user-attachments/assets/cd4dbaf3-b6d9-4b31-bc09-3ec5d4bf55aa" alt="chai">
 <div/>
 
 
